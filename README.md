@@ -1,6 +1,6 @@
 - Hi, I’m Yash!
 - 🦖 I’m interested in Data Analytics and Data Science
-- 🍎 I’m currently learning modelling of energy demands in European industries
+- 🍎 I’m currently modelling energy demands in European industries
 - 🦡 I’m looking to collaborate on Data Science and Policy Analysis
 - 📫 How to reach me - Connect with me on [Linkedin](linkedin.com/in/yashdubey13298/)
 
